@@ -1,4 +1,7 @@
-# RabbitMq Example
+[![built with RabbitMQ](https://img.shields.io/badge/built%20with-RabbitMQ-orange.svg)](https://www.rabbitmq.com/) &nbsp;
+[![built with Python3.6+](https://img.shields.io/badge/built%20with-python3.6+-yellow.svg)](https://www.python.org/) </br>
+
+# RabbitMQ Example
 
 
 This is an example of Rabbitmq with flask and Docker.
