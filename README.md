@@ -5,7 +5,7 @@
 # RabbitMQ Example
 
 
-This is an example of Rabbitmq with flask and Docker.
+This is an example of RabbitMQ with flask and Docker.
 
 
 ## How to use?
