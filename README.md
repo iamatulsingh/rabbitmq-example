@@ -1,4 +1,5 @@
-[![built with RabbitMQ](https://img.shields.io/badge/built%20with-RabbitMQ-orange.svg)](https://www.rabbitmq.com/) &nbsp;
+[![RabbitMQ](https://img.shields.io/badge/Queue-RabbitMQ-orange.svg)](https://www.rabbitmq.com/) &nbsp;
+[![Docker](https://img.shields.io/badge/Container-Docker-blue.svg)](https://www.docker.com/) &nbsp;
 [![built with Python3.6+](https://img.shields.io/badge/built%20with-python3.6+-yellow.svg)](https://www.python.org/) </br>
 
 # RabbitMQ Example
