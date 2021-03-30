@@ -14,6 +14,6 @@ This is an example of RabbitMQ with flask and Docker.
 
 `docker-compose up -d`
 
-edit and change email and message in `test.sh` to send mail.
+editt code and change email and message in `test.sh` to send mail.
 
 <b>NOTE</b>: I used gmail SMTP in the code so please change according to your need before test.
